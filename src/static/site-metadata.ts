@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
+  siteUrl: 'http://run.gitloc.com',
   logo: 'https://s2.ax1x.com/2019/12/09/Q0mKJK.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
