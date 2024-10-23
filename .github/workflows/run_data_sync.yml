@@ -30,7 +30,7 @@ env:
   TITLE: Workouts
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Workouts # also here
-  GITHUB_NAME: haibuhao  # change to yours
+  GITHUB_NAME: Zhihao  # change to yours
   GITHUB_EMAIL: n686@msn.com # change to yours
 
   # IGNORE_BEFORE_SAVING: True # if you want to ignore some data before saving, set this to True
